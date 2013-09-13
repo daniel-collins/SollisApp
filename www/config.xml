@@ -7,7 +7,7 @@
     <author email="daniel.collins@sollis.co.uk" href="http://www.sollis.co.uk">
         Sollis
     </author>
-    <content src="http://www.sollis.co.uk" />
+    <content src="index.html" />
     <access origin="*" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
