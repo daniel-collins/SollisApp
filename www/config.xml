@@ -9,6 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+	<icon src="img/logo.png" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
 </widget>
